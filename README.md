@@ -1,12 +1,20 @@
 ## CRYPTOCURRENCY
 ![donald-era-farnsworth-art-notes-high-water-800x800](https://github.com/RENANZG/My-Cryptocurrency/assets/53377291/088ac0f3-e43a-42ee-9db4-e0a7ef40dd84)
 
-https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard/    
+• Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic    
+https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard    
+• Record $3.8 billion stolen in crypto hacks last year, report says    
+https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html    
+• Report: $1.9 billion stolen in crypto hacks so far this year    
+https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html    
+• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency    
+https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html    
+
+<hr>
 
 
 https://github.com/bitcoinbook/bitcoinbook  
 https://forum.getmonero.org  
-
 https://github.com/Mikerah/awesome-privacy-on-blockchains  
 
 • WHONIX WIKI  
