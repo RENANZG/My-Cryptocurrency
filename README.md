@@ -4,21 +4,25 @@
 
 
 <div id="header" align="center">
-  <img src=".data/dollar_sign_1981_-_andy_warhol_830px.png" width="830"/>
+  <img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg"/>
 </div>
 
 <!-- ################################################# -->
 <hr>
+<h3>News</h3>
 
-• Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic    
-https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard    
-• Record $3.8 billion stolen in crypto hacks last year, report says    
-https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html    
-• Report: $1.9 billion stolen in crypto hacks so far this year    
-https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html    
-• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency    
-https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html    
-• 
+• The impact of throwing Russia out of Swift - Financial Times</br>
+https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
+• Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic - Fortune</br>
+https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard</br>
+• Record $3.8 billion stolen in crypto hacks last year, report says - CNN</br>
+https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html</br>
+• Report: $1.9 billion stolen in crypto hacks so far this year - CNN</br>
+https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html - The Hacker News</br>
+• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency</br>
+https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html</br>
+• Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers - U.S. Department of Justice</br>
+https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation</br>
 
 <!-- ################################################# -->
 <hr>
@@ -38,7 +42,7 @@ https://github.com/monero-project/monero<br>
 https://github.com/evbots/dex-protocols<br>
 
 <br>
-<a href="https://bisq.network/">Bisq</a>- Exchange, Decentralized<br>
+<a href="https://bisq.network/">Bisq</a> - Exchange, Decentralized<br>
 <a href="https://coincards.com/">Coincards</a> - Spend crypto at top brands<br>
 <a href="https://haveno.exchange/">Haveno</a> - Opening Monero To The World<br>
 <a href="https://localmonero.co/">LocalMonero</a> - Buy or Sell Monero Anonymously<br>
@@ -77,18 +81,18 @@ https://github.com/epiccurious/jade-diy<br>
 
 <h3>OPSEC</h3>
 
-<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp(PDF)</a><br>
+<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp; (PDF)</a><br>
 
-https://github.com/Mikerah/awesome-privacy-on-blockchains<br>
 https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap<br>
+https://github.com/Mikerah/awesome-privacy-on-blockchains<br>
 https://github.com/BlockchainCommons/Pseudonymity-Guide<br>
 https://github.com/taxmeifyoucan/p2p-trading<br>
 https://github.com/austintgriffith/burner-wallet<br>
 
 • TAILS<br>
 https://github.com/Techs2Help/TailsOS_cold_storage<br>
-https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 https://github.com/BenWestgate/Bails<br>
+https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 
 
 <!-- ################################################# -->
@@ -96,7 +100,6 @@ https://github.com/BenWestgate/Bails<br>
 
 <h3>LEGAL TENDER</h3>
 https://github.com/acceptbitcoincash/acceptbitcoincash<br>
-
 
 
 <!-- ################################################# -->
