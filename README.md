@@ -99,6 +99,7 @@ https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 <hr>
 
 <h3>LEGAL TENDER</h3>
+
 https://github.com/acceptbitcoincash/acceptbitcoincash<br>
 
 
