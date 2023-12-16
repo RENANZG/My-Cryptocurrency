@@ -1,20 +1,36 @@
-<h2>CRYPTOCURRENCY</h2>
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+
+  <meta charset='UTF-8'>
+
+<body>
+
+<div id="header">
+
+<h1>🏛️🏧🪙 CRYPTOCURRENCY 🪙🏧🏛️</h1>
 
 <blockquote><h3>“We are all part of a bigger game, and Bitcoin is one of the strongest levers in that. The systems that we are influencing, that we are exerting leverage on, payments and finance, will shape what the world of tomorrow looks like.” (Edward Snowden)</h3></blockquote>
 
+  <img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg" title="High Water (2017) - Donald and Era Farnsworth"/>
 
-<div id="header" align="center">
-  <img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg"/>
 </div>
 
-<!-- ################################################# -->
 <hr>
+
+<!-- ################################################# -->
+
 <h3>News</h3>
 
 • The impact of throwing Russia out of Swift - Financial Times</br>
 https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
+• Monero Founder Refutes Allegations of Helping Interpol Trace Funds</br>
+https://beincrypto.com/monero-founder-refutes-allegations-interpol-trace-funds/</br>
 • Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic - Fortune</br>
 https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard</br>
+• They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird - Wired</br>
+https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin</br>
 • Record $3.8 billion stolen in crypto hacks last year, report says - CNN</br>
 https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html</br>
 • Report: $1.9 billion stolen in crypto hacks so far this year - CNN</br>
@@ -101,6 +117,7 @@ https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 <h3>LEGAL TENDER</h3>
 
 https://github.com/acceptbitcoincash/acceptbitcoincash<br>
+https://github.com/galtproject/galtproject-core<br>
 
 
 <!-- ################################################# -->
@@ -133,3 +150,7 @@ https://github.com/acceptbitcoincash/acceptbitcoincash<br>
 </tr>
 </table>
 </details>
+
+
+</body>
+</html>
