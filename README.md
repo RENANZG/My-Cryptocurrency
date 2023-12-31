@@ -7,11 +7,13 @@
 
 <body>
 
-<div id="header">
+<div id="header" align="center">
 
 <h1>🏛️🏧🪙 CRYPTOCURRENCY 🪙🏧🏛️</h1>
 
-<blockquote><h3>“We are all part of a bigger game, and Bitcoin is one of the strongest levers in that. The systems that we are influencing, that we are exerting leverage on, payments and finance, will shape what the world of tomorrow looks like.” (Edward Snowden)</h3></blockquote>
+<blockquote><h3>“We are all part of a bigger game, and Bitcoin is one of the strongest levers in that.<br>
+The systems that we are influencing, that we are exerting leverage on, payments and finance,<br>
+will shape what the world of tomorrow looks like." (Edward Snowden)</h3></blockquote>
 
   <img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg" title="High Water (2017) - Donald and Era Farnsworth"/>
 
@@ -56,6 +58,7 @@ https://github.com/bitcoinbook/bitcoinbook<br>
 https://forum.getmonero.org<br>
 https://github.com/monero-project/monero<br>
 https://github.com/evbots/dex-protocols<br>
+https://github.com/UkoeHB/Monero-RCT-report<br>
 
 <br>
 <a href="https://bisq.network/">Bisq</a> - Exchange, Decentralized<br>
@@ -99,11 +102,13 @@ https://github.com/epiccurious/jade-diy<br>
 
 <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp; (PDF)</a><br>
 
-https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap<br>
-https://github.com/Mikerah/awesome-privacy-on-blockchains<br>
-https://github.com/BlockchainCommons/Pseudonymity-Guide<br>
-https://github.com/taxmeifyoucan/p2p-trading<br>
-https://github.com/austintgriffith/burner-wallet<br>
+Crypto-OpSec-SelfGuard-RoadMap - https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap<br>
+Awesome privacy on blockchains - https://github.com/Mikerah/awesome-privacy-on-blockchains<br>
+Pseudonymity Guide - https://github.com/BlockchainCommons/Pseudonymity-Guide<br>
+P2P Trading - https://github.com/taxmeifyoucan/p2p-trading<br>
+Burner Wallet - https://github.com/austintgriffith/burner-wallet<br>
+KYC? Not me - https://kycnot.me</br>
+
 
 • TAILS<br>
 https://github.com/Techs2Help/TailsOS_cold_storage<br>
@@ -119,9 +124,48 @@ https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 https://github.com/acceptbitcoincash/acceptbitcoincash<br>
 https://github.com/galtproject/galtproject-core<br>
 
+<!-- ################################################# -->
+<hr>
+
+<h3>CRYPTOCURRENCIES ANALYSIS</h3>
+
+<p>Blockchain Explorers</p>
+https://blocksherlock.com/home/blockchain-explorers<br>
+https://tronscan.org<br>
+https://etherscan.io<br>
+https://algoexplorer.io<br>
+https://explorer.solana.com<br>
+https://stellar.expert<br>
+https://snowtrace.io<br>
+https://flowscan.org<br>
+https://polygonscan.com<br>
+
+<p>Paid services</p>
+https://chainalysis.com<br>
+https://elliptic.co<br>
+https://ciphertrace.com<br>
+https://coinmetrics.io<br>
+https://ciphertrace.com<br>
+https://elementus.io<br>
+https://trmlabs.com<br>
+https://bitok.org/investigations<br>
+
+<p>Tools</p>
+https://github.com/demining/CryptoDeepTools<br>
+https://github.com/demining/bitcoindigger<br>
+https://github.com/demining/Dao-Exploit<br>
+https://github.com/immunefi-team/Web3-Security-Library/blob/main/Tools/README.md#blockchain-analysis<br>
 
 <!-- ################################################# -->
 <hr>
+
+<details>
+<summary>Others</summary>
+<br>
+https://www.moneylaundering.com<br>
+https://financialcrimeacademy.org<br>
+https://kycnot.me</br>
+</details>
 
 <details>
 <summary>Glossary of Terms</summary>
