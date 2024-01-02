@@ -7,7 +7,7 @@
 
 <body>
 
-<div id="header" align="center">
+<div id="header">
 
 <h1>🏛️🏧🪙 CRYPTOCURRENCY 🪙🏧🏛️</h1>
 
@@ -15,7 +15,7 @@
 The systems that we are influencing, that we are exerting leverage on, payments and finance,<br>
 will shape what the world of tomorrow looks like." (Edward Snowden)</h3></blockquote>
 
-  <img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg" title="High Water (2017) - Donald and Era Farnsworth"/>
+  <img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg" title="High Water (2017) - Donald and Era Farnsworth" align="center"/>
 
 </div>
 
@@ -123,6 +123,13 @@ https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 
 https://github.com/acceptbitcoincash/acceptbitcoincash<br>
 https://github.com/galtproject/galtproject-core<br>
+
+<!-- ################################################# -->
+<hr>
+
+<h3>SMART CONTRACTS - REGULATORY ARBITRAGE</h3>
+
+<br>
 
 <!-- ################################################# -->
 <hr>
