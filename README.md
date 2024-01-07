@@ -22,7 +22,8 @@
 <!-- ################################################# -->
 
 <h3>News</h3>
-
+• $1.19M Bitcoin Lands in Satoshi Nakamoto’s Wallet</br>
+https://www.cryptotimes.io/1-19m-bitcoin-lands-in-satoshi-nakamotos-wallet</br>
 • The impact of throwing Russia out of Swift - Financial Times</br>
 https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
 • Monero Founder Refutes Allegations of Helping Interpol Trace Funds</br>
@@ -162,6 +163,16 @@ https://github.com/demining/Dao-Exploit<br>
 https://github.com/immunefi-team/Web3-Security-Library/blob/main/Tools/README.md#blockchain-analysis<br>
 
 <!-- ################################################# -->
+
+<h3>HOME MINING</h3>
+
+<p>Tools</p>
+
+https://github.com/satoshi-anonymoto/pleb-miners<br>
+https://github.com/Der-Schweisser/Immersion_Plep_Miner<br>
+
+
+<!-- ################################################# -->
 <hr>
 
 <details>
@@ -200,6 +211,24 @@ https://kycnot.me</br>
 </table>
 </details>
 
+<br>
+
+<!--################################### -->
+
+<p align="right"> <a href="https://github.com/RENANZG/My-Onion-Links?tab=readme-ov-file#">Back to Top ⬆</a> </p>
+
+<!--################################### -->
+
+<div id="footer">
+
+<br>
+<br>
+<br>
+
+<img src="We_Want_You_-_Anon.png"  align="center"/>
+</div>
+
+<!--################################### -->
 
 </body>
 </html>
