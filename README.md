@@ -136,8 +136,10 @@ https://github.com/galtproject/galtproject-core<br>
 <h3>CRYPTOCURRENCIES ANALYSIS</h3>
 
 <p>Blockchain Explorers</p>
+
 https://blocksherlock.com/home/blockchain-explorers<br>
 https://mempool.space<br>
+https://blockchain.info<br>
 https://tronscan.org<br>
 https://etherscan.io<br>
 https://algoexplorer.io<br>
@@ -148,6 +150,7 @@ https://flowscan.org<br>
 https://polygonscan.com<br>
 
 <p>Paid services</p>
+
 https://chainalysis.com<br>
 https://elliptic.co<br>
 https://ciphertrace.com<br>
@@ -158,6 +161,7 @@ https://trmlabs.com<br>
 https://bitok.org/investigations<br>
 
 <p>Tools</p>
+
 https://github.com/demining/CryptoDeepTools<br>
 https://github.com/demining/bitcoindigger<br>
 https://github.com/demining/Dao-Exploit<br>
@@ -179,10 +183,16 @@ https://github.com/Der-Schweisser/Immersion_Plep_Miner<br>
 <details>
 <summary>Others</summary>
 <br>
+
 https://www.moneylaundering.com<br>
 https://financialcrimeacademy.org<br>
-https://kycnot.me</br>
+https://kycnot.me<br>
+https://www.unodc.org/e4j/en/cybercrime/module-13/additional-teaching-tools.html<br>
+
+<br>
 </details>
+
+<!-- ################################################# -->
 
 <details>
 <summary>Glossary of Terms</summary>
