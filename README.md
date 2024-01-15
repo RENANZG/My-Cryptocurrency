@@ -71,8 +71,6 @@ https://github.com/UkoeHB/Monero-RCT-report<br>
 <a href="https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html">Viabuy</a><br>
 <br>
 
-
-
 <!-- ################################################# -->
 <hr>
 
