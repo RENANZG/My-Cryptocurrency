@@ -58,6 +58,7 @@ https://forum.getmonero.org<br>
 https://github.com/monero-project/monero<br>
 https://github.com/evbots/dex-protocols<br>
 https://github.com/UkoeHB/Monero-RCT-report<br>
+https://blog.chainalysis.com/reports/all-about-monero<br>
 
 <br>
 <a href="https://bisq.network/">Bisq</a> - Exchange, Decentralized<br>
@@ -91,6 +92,12 @@ https://www.kicksecure.com/wiki/Ledger_Hardware_Wallet<br>
 • HARDWALLETS<br>
 https://www.youtube.com/c/CryptoDad<br>
 https://github.com/epiccurious/jade-diy<br>
+https://github.com/JWWeatherman/yeticold<br>
+
+• TAILS COLD<br>
+https://github.com/Techs2Help/TailsOS_cold_storage<br>
+https://github.com/BenWestgate/Bails<br>
+https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 
 <!-- ################################################# -->
 <hr>
@@ -105,13 +112,6 @@ Pseudonymity Guide - https://github.com/BlockchainCommons/Pseudonymity-Guide<br>
 P2P Trading - https://github.com/taxmeifyoucan/p2p-trading<br>
 Burner Wallet - https://github.com/austintgriffith/burner-wallet<br>
 KYC? Not me - https://kycnot.me</br>
-
-
-• TAILS<br>
-https://github.com/Techs2Help/TailsOS_cold_storage<br>
-https://github.com/BenWestgate/Bails<br>
-https://github.com/BenWestgate/bitcoin-core-on-tails<br>
-
 
 <!-- ################################################# -->
 <hr>
@@ -135,6 +135,8 @@ https://github.com/galtproject/galtproject-core<br>
 
 <p>Blockchain Explorers</p>
 
+https://github.com/OffcierCia/On-Chain-Investigations-Tools-List<br>
+https://github.com/aaarghhh/awesome_osint_criypto_web3_stuff<br>
 https://blocksherlock.com/home/blockchain-explorers<br>
 https://mempool.space<br>
 https://blockchain.info<br>
