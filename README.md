@@ -13,7 +13,7 @@
 
 <blockquote><h3>“We are all part of a bigger game, and Bitcoin is one of the strongest levers in that. The systems that we are influencing, that we are exerting leverage on, payments and finance, will shape what the world of tomorrow looks like." (Edward Snowden)</h3></blockquote>
 
-  <p align="center"><img src=".data/high_water_2017_-_donald_and_era_farnsworth.jpeg" title="High Water (2017) - Donald and Era Farnsworth"/></p>
+  <p align="center"><img src="https://github.com/RENANZG/My-Cryptocurrency/assets/53377291/bf0a52d9-099a-4896-a6b8-00999b259eb3" title="High Water (2017) - Donald and Era Farnsworth"/></p>
 
 </div>
 
