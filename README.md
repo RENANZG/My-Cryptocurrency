@@ -53,71 +53,111 @@ https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-act
 
 <h3>PROLEGOMENA</h3>
 
-https://github.com/bitcoinbook/bitcoinbook<br>
-https://forum.getmonero.org<br>
-https://github.com/monero-project/monero<br>
-https://github.com/evbots/dex-protocols<br>
-https://github.com/UkoeHB/Monero-RCT-report<br>
-https://blog.chainalysis.com/reports/all-about-monero<br>
+<h4>• WHONIX WIKI</h4>
 
-<br>
-<a href="https://bisq.network/">Bisq</a> - Exchange, Decentralized<br>
-<a href="https://coincards.com/">Coincards</a> - Spend crypto at top brands<br>
-<a href="https://haveno.exchange/">Haveno</a> - Opening Monero To The World<br>
-<a href="https://localmonero.co/">LocalMonero</a> - Buy or Sell Monero Anonymously<br>
-<a href="https://paywithmoon.com/">Moon</a> - Pay with crypto<br>
-<a href="https://samouraiwallet.com/">Samourai Wallet</a> - A Bitcoin wallet for the streets<br>
-<a href="https://www.travala.com/">Travala</a> - Travel with crypto<br>
-<a href="https://privacy.com/">Privacy.com</a><br>
-<a href="https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html">Viabuy</a><br>
-<br>
-
-<!-- ################################################# -->
-<hr>
-
-• WHONIX WIKI<br>
 https://www.whonix.org/wiki/Money<br>
 https://www.whonix.org/wiki/Electrum<br>
 https://www.whonix.org/wiki/Monero<br>
 https://www.whonix.org/wiki/Ethereum<br>
 https://www.whonix.org/wiki/Bisq<br>
-<br>
 
-• KICKSECURE WIKI<br>
+<h4>• KICKSECURE WIKI</h4>
+
 https://www.kicksecure.com/wiki/Cryptocurrency_Security_Threats<br>
 https://www.kicksecure.com/wiki/Hardware_Wallet_Security<br>
 https://www.kicksecure.com/wiki/Ledger_Hardware_Wallet<br>
-<br>
 
-• HARDWALLETS<br>
+<h4>• COLD STORAGE</h4>
+
+https://github.com/Techs2Help/TailsOS_cold_storage<br>
+https://github.com/BenWestgate/Bails<br>
+https://github.com/BenWestgate/bitcoin-core-on-tails<br>
 https://www.youtube.com/c/CryptoDad<br>
 https://github.com/epiccurious/jade-diy<br>
 https://github.com/JWWeatherman/yeticold<br>
 
-• TAILS COLD<br>
-https://github.com/Techs2Help/TailsOS_cold_storage<br>
-https://github.com/BenWestgate/Bails<br>
-https://github.com/BenWestgate/bitcoin-core-on-tails<br>
+
+<h4>• DECENTRALIZED EXCHANGE (DEX)</h4>
+
+KYC? Not me - https://kycnot.me</br>
+https://stealthex.io<br>
+https://simpleswap.io<br>
+https://github.com/evbots/dex-protocols<br>
+
+<h4>Bitcoin (BTC)</h4>
+
+https://github.com/bitcoinbook/bitcoinbook<br>
+
+<h4>Monero (XMR)</h4>
+
+https://getmonero.org<br>
+https://forum.getmonero.org<br>
+https://github.com/monero-project/monero<br>
+https://xmrguide.org<br>
+https://moneropolicy.org<br>
+https://github.com/UkoeHB/Monero-RCT-report<br>
+https://blog.chainalysis.com/reports/all-about-monero<br>
+
+<h4>Zcash (ZEC)</h4>
+
+https://z.cash</br>
+https://github.com/zcash/zcash</br>
+https://flyp.me</br>
+
+<h4>Tron (TRX)</h4>
+
+https://tron.network/trx?lng=en</br>
+https://github.com/tronprotocol</br>
+https://sunswap.com</body>br>
+
+<ul>
+<li><a href="https://bisq.network/">Bisq</a> - Exchange, Decentralized</li>
+<li><a href="https://coincards.com/">Coincards</a> - Spend crypto at top brands</li>
+<li><a href="https://haveno.exchange/">Haveno</a> - Opening Monero To The World</li>
+<li><a href="https://localmonero.co/">LocalMonero</a> - Buy or Sell Monero Anonymously</li>
+<li><a href="https://paywithmoon.com/">Moon</a> - Pay with crypto</li>
+<li><a href="https://samouraiwallet.com/">Samourai Wallet</a> - A Bitcoin wallet for the streets</li>
+<li><a href="https://www.travala.com/">Travala</a> - Travel with crypto</li>
+<li><a href="https://privacy.com/">Privacy.com</a> - Protect Your Payments and Keep Free Trials Free</li>
+<li><a href="https://www.viabuy.com/the-prepaid-mastercard-in-gold-or-black.html">Viabuy</a> - Online account with personal IBAN and Prepaid Mastercard. Without stress!<br></li>
+</ul>
 
 <!-- ################################################# -->
 <hr>
 
 <h3>OPSEC</h3>
 
-<a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp; (PDF)</a><br>
+• <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp; (PDF)</a><br>
 
-Crypto-OpSec-SelfGuard-RoadMap - https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap<br>
-Awesome privacy on blockchains - https://github.com/Mikerah/awesome-privacy-on-blockchains<br>
-Pseudonymity Guide - https://github.com/BlockchainCommons/Pseudonymity-Guide<br>
-P2P Trading - https://github.com/taxmeifyoucan/p2p-trading<br>
-Burner Wallet - https://github.com/austintgriffith/burner-wallet<br>
-KYC? Not me - https://kycnot.me</br>
+
+• Blockchain dark forest selfguard handbook<br>
+https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook<br>
+
+• Crypto-OpSec-SelfGuard-RoadMap<br>
+https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap<br>
+
+• Awesome privacy on blockchains<br>
+https://github.com/Mikerah/awesome-privacy-on-blockchains<br>
+
+• Pseudonymity Guide<br>
+https://github.com/BlockchainCommons/Pseudonymity-Guide<br>
+
+<h4>P2P Trading</h4>
+
+• P2P Trading<br>
+https://github.com/taxmeifyoucan/p2p-trading<br>
+
+<h4>Burner Wallet</h4>
+
+• Burner Wallet<br>
+https://github.com/austintgriffith/burner-wallet<br>
+
 
 <!-- ################################################# -->
 <hr>
 
 <h3>LEGAL TENDER</h3>
-
+https://github.com/monerica-project/monerica<br>
 https://github.com/acceptbitcoincash/acceptbitcoincash<br>
 https://github.com/galtproject/galtproject-core<br>
 
@@ -125,6 +165,8 @@ https://github.com/galtproject/galtproject-core<br>
 <hr>
 
 <h3>SMART CONTRACTS - REGULATORY ARBITRAGE</h3>
+https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/17/smart-contracts-and-the-law-what-you-need-to-know/<br>
+
 
 <br>
 
@@ -161,11 +203,14 @@ https://trmlabs.com<br>
 https://bitok.org/investigations<br>
 
 <p>Tools</p>
-
+https://github.com/OffcierCia/On-Chain-Investigations-Tools-List<br>
+https://github.com/nongiach/awesome-cryptocurrency-security<br>
 https://github.com/demining/CryptoDeepTools<br>
 https://github.com/demining/bitcoindigger<br>
+https://github.com/s0md3v/Orbit<br>
 https://github.com/demining/Dao-Exploit<br>
 https://github.com/immunefi-team/Web3-Security-Library/blob/main/Tools/README.md#blockchain-analysis<br>
+https://github.com/Seb2lyon/BTCscan<br>
 
 <!-- ################################################# -->
 
@@ -175,7 +220,6 @@ https://github.com/immunefi-team/Web3-Security-Library/blob/main/Tools/README.md
 
 https://github.com/satoshi-anonymoto/pleb-miners<br>
 https://github.com/Der-Schweisser/Immersion_Plep_Miner<br>
-
 
 <!-- ################################################# -->
 <hr>
@@ -236,7 +280,7 @@ https://www.unodc.org/e4j/en/cybercrime/module-13/additional-teaching-tools.html
 <br>
 <br>
 
-<img src="We_Want_You_-_Anon.png"  align="center"/>
+<p align="center">Made with ♥</p>
 </div>
 
 <!--################################### -->
