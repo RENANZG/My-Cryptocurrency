@@ -22,6 +22,10 @@
 <!-- ################################################# -->
 
 <h3>News</h3>
+• THE NEW SATOSHI EMAILS: EARLY DEVELOPER SIRIUS RELEASES 120 PAGES DETAILING WORK ON BITCOIN</br>
+https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi</br>
+• READ ADAM BACK'S COMPLETE EMAILS WITH BITCOIN CREATOR SATOSHI NAKAMOTO</br>
+https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto</br>
 • $1.19M Bitcoin Lands in Satoshi Nakamoto’s Wallet</br>
 https://www.cryptotimes.io/1-19m-bitcoin-lands-in-satoshi-nakamotos-wallet</br>
 • The impact of throwing Russia out of Swift - Financial Times</br>
@@ -129,6 +133,9 @@ https://sunswap.com</body>br>
 
 • <a href="https://anonymousplanet.org/" target="_blank"><b>Anonymous Planet</b> - The Hitchhiker’s Guide</a><a href="https://anonymousplanet.org/export/guide.pdf" target="_blank">&nbsp; (PDF)</a><br>
 
+• <a href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion">DNM Bible - http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion</a>
+
+• <a href="http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion">XMRGuide - http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion</a>
 
 • Blockchain dark forest selfguard handbook<br>
 https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook<br>
