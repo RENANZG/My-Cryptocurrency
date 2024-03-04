@@ -80,7 +80,6 @@ https://www.youtube.com/c/CryptoDad<br>
 https://github.com/epiccurious/jade-diy<br>
 https://github.com/JWWeatherman/yeticold<br>
 
-
 <h4>• DECENTRALIZED EXCHANGE (DEX)</h4>
 
 KYC? Not me - https://kycnot.me</br>
@@ -102,17 +101,25 @@ https://moneropolicy.org<br>
 https://github.com/UkoeHB/Monero-RCT-report<br>
 https://blog.chainalysis.com/reports/all-about-monero<br>
 
+<h4>Tron (TRX)</h4>
+
+https://tron.network/trx?lng=en</br>
+https://github.com/tronprotocol</br>
+https://sunswap.com</br>
+
 <h4>Zcash (ZEC)</h4>
 
 https://z.cash</br>
 https://github.com/zcash/zcash</br>
 https://flyp.me</br>
 
-<h4>Tron (TRX)</h4>
 
-https://tron.network/trx?lng=en</br>
-https://github.com/tronprotocol</br>
-https://sunswap.com</body>br>
+<h4>Dash</h4>
+
+https://www.dash.org</br>
+
+</br>
+</br>
 
 <ul>
 <li><a href="https://bisq.network/">Bisq</a> - Exchange, Decentralized</li>
