@@ -22,27 +22,29 @@
 <!-- ################################################# -->
 
 <h3>News</h3>
-• THE NEW SATOSHI EMAILS: EARLY DEVELOPER SIRIUS RELEASES 120 PAGES DETAILING WORK ON BITCOIN</br>
+• The New Satoshi Emails: Early Developer Sirius Releases 120 Pages Detailing Work On Bitcoin - Bitcoin Magazine (2024-02-23)</br>
 https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi</br>
-• READ ADAM BACK'S COMPLETE EMAILS WITH BITCOIN CREATOR SATOSHI NAKAMOTO</br>
+• Read Adam Back's Complete Emails With Bitcoin Creator Satoshi Nakamoto - Bitcoin Magazine  (2024-02-23)</br>
 https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto</br>
-• $1.19M Bitcoin Lands in Satoshi Nakamoto’s Wallet</br>
-https://www.cryptotimes.io/1-19m-bitcoin-lands-in-satoshi-nakamotos-wallet</br>
-• The impact of throwing Russia out of Swift - Financial Times</br>
+• Mysterious $1.2M Bitcoin Transaction to Satoshi Nakamoto Sparks Speculations - Coindesk (2024-01-08)</br>
+https://www.coindesk.com/markets/2024/01/08/mysterious-12m-bitcoin-transaction-to-satoshi-nakamoto-sparks-speculations/</br>
+• The impact of throwing Russia out of Swift - Financial Times (2022-02-25)</br>
 https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
-• Monero Founder Refutes Allegations of Helping Interpol Trace Funds</br>
+• BRICS to Develop Blockchain-Based Payment System to Bypass the Dollar - Money Metals (2024-03-07)</br>
+https://www.moneymetals.com/news/2024/03/07/brics-bloc-plans-to-develop-blockchain-based-payment-system-to-bypasses-the-dollar-003033</br>
+• Monero Founder Refutes Allegations of Helping Interpol Trace Funds - Beincrypto (2023-03-22)</br>
 https://beincrypto.com/monero-founder-refutes-allegations-interpol-trace-funds/</br>
-• Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic - Fortune</br>
+• Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic - Fortune (2021-02-07)</br>
 https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard</br>
-• They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird - Wired</br>
+• They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird - Wired (2023-09-24)</br>
 https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin</br>
-• Record $3.8 billion stolen in crypto hacks last year, report says - CNN</br>
+• Record $3.8 billion stolen in crypto hacks last year, report says - CNN (2023-02-01)</br>
 https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html</br>
-• Report: $1.9 billion stolen in crypto hacks so far this year - CNN</br>
-https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html - The Hacker News</br>
-• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency</br>
+• Report: $1.9 billion stolen in crypto hacks so far this year - CNN (2022-08-16)</br>
+https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html - The Hacker News (2023-10)</br>
+• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency (2023-10)</br>
 https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html</br>
-• Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers - U.S. Department of Justice</br>
+• Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers - U.S. Department of Justice (2023-09-18)</br>
 https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation</br>
 
 <!-- ################################################# -->
