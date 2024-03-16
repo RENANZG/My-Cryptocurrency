@@ -26,12 +26,12 @@
 https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi</br>
 • Read Adam Back's Complete Emails With Bitcoin Creator Satoshi Nakamoto - Bitcoin Magazine  (2024-02-23)</br>
 https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto</br>
-• Mysterious $1.2M Bitcoin Transaction to Satoshi Nakamoto Sparks Speculations - Coindesk (2024-01-08)</br>
-https://www.coindesk.com/markets/2024/01/08/mysterious-12m-bitcoin-transaction-to-satoshi-nakamoto-sparks-speculations/</br>
 • The impact of throwing Russia out of Swift - Financial Times (2022-02-25)</br>
 https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
 • BRICS to Develop Blockchain-Based Payment System to Bypass the Dollar - Money Metals (2024-03-07)</br>
 https://www.moneymetals.com/news/2024/03/07/brics-bloc-plans-to-develop-blockchain-based-payment-system-to-bypasses-the-dollar-003033</br>
+• Venezuela rushes to mend Iran relationship as US sanctions loom - Reuters<br>
+https://www.reuters.com/markets/commodities/venezuela-rushes-mend-iran-relationship-us-sanctions-loom-2024-03-12/?ref=upstract.com<br>
 • Monero Founder Refutes Allegations of Helping Interpol Trace Funds - Beincrypto (2023-03-22)</br>
 https://beincrypto.com/monero-founder-refutes-allegations-interpol-trace-funds/</br>
 • Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic - Fortune (2021-02-07)</br>
