@@ -30,7 +30,7 @@ https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi
 https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
 • BRICS to Develop Blockchain-Based Payment System to Bypass the Dollar - Money Metals (2024-03-07)</br>
 https://www.moneymetals.com/news/2024/03/07/brics-bloc-plans-to-develop-blockchain-based-payment-system-to-bypasses-the-dollar-003033</br>
-• Venezuela rushes to mend Iran relationship as US sanctions loom - Reuters<br>
+• Venezuela rushes to mend Iran relationship as US sanctions loom - Reuters (2024-03-12)<br>
 https://www.reuters.com/markets/commodities/venezuela-rushes-mend-iran-relationship-us-sanctions-loom-2024-03-12/?ref=upstract.com<br>
 • Monero Founder Refutes Allegations of Helping Interpol Trace Funds - Beincrypto (2023-03-22)</br>
 https://beincrypto.com/monero-founder-refutes-allegations-interpol-trace-funds/</br>
@@ -41,8 +41,8 @@ https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin</br>
 • Record $3.8 billion stolen in crypto hacks last year, report says - CNN (2023-02-01)</br>
 https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html</br>
 • Report: $1.9 billion stolen in crypto hacks so far this year - CNN (2022-08-16)</br>
-https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html - The Hacker News (2023-10)</br>
-• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency (2023-10)</br>
+https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html </br>
+• North Korea's Lazarus Group Launders $900 Million in Cryptocurrency - The Hacker News (2023-10)</br>
 https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html</br>
 • Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers - U.S. Department of Justice (2023-09-18)</br>
 https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation</br>
