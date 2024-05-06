@@ -22,7 +22,8 @@
 <!-- ################################################# -->
 
 <h3>News</h3>
-
+• Feds Arrest Founders of Bitcoin Mixer Samourai Wallet<br>
+https://decrypt.co/227949/feds-arrest-founders-bitcoin-mixer-samourai-wallet<br>
 • The New Satoshi Emails: Early Developer Sirius Releases 120 Pages Detailing Work On Bitcoin - Bitcoin Magazine (2024-02-23)</br>
 https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi</br>
 • Read Adam Back's Complete Emails With Bitcoin Creator Satoshi Nakamoto - Bitcoin Magazine  (2024-02-23)</br>
