@@ -22,18 +22,11 @@
 <!-- ################################################# -->
 
 <h3>News</h3>
+
 • The New Satoshi Emails: Early Developer Sirius Releases 120 Pages Detailing Work On Bitcoin - Bitcoin Magazine (2024-02-23)</br>
 https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi</br>
 • Read Adam Back's Complete Emails With Bitcoin Creator Satoshi Nakamoto - Bitcoin Magazine  (2024-02-23)</br>
 https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto</br>
-• The impact of throwing Russia out of Swift - Financial Times (2022-02-25)</br>
-https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
-• BRICS to Develop Blockchain-Based Payment System to Bypass the Dollar - Money Metals (2024-03-07)</br>
-https://www.moneymetals.com/news/2024/03/07/brics-bloc-plans-to-develop-blockchain-based-payment-system-to-bypasses-the-dollar-003033</br>
-• Venezuela rushes to mend Iran relationship as US sanctions loom - Reuters (2024-03-12)<br>
-https://www.reuters.com/markets/commodities/venezuela-rushes-mend-iran-relationship-us-sanctions-loom-2024-03-12/?ref=upstract.com<br>
-• Monero Founder Refutes Allegations of Helping Interpol Trace Funds - Beincrypto (2023-03-22)</br>
-https://beincrypto.com/monero-founder-refutes-allegations-interpol-trace-funds/</br>
 • Confessions of a Bitcoin believer: One former miner’s journey from zealot to skeptic - Fortune (2021-02-07)</br>
 https://fortune.com/2021/02/07/bitcoin-miner-alex-pickard</br>
 • They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird - Wired (2023-09-24)</br>
@@ -42,10 +35,23 @@ https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin</br>
 https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html</br>
 • Report: $1.9 billion stolen in crypto hacks so far this year - CNN (2022-08-16)</br>
 https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html </br>
+
+<h4>Geopolitics</h4>
+• Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses - US (2024-05-24)
+https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering<br>
+• Monero Founder Refutes Allegations of Helping Interpol Trace Funds - Beincrypto (2023-03-22)</br>
+https://beincrypto.com/monero-founder-refutes-allegations-interpol-trace-funds/</br>
+• The impact of throwing Russia out of Swift - Financial Times (2022-02-25)</br>
+https://www.ft.com/content/7a6613c7-f2f0-4111-aaca-88867c9b8a0a</br>
+• BRICS to Develop Blockchain-Based Payment System to Bypass the Dollar - Money Metals (2024-03-07)</br>
+https://www.moneymetals.com/news/2024/03/07/brics-bloc-plans-to-develop-blockchain-based-payment-system-to-bypasses-the-dollar-003033</br>
+• Venezuela rushes to mend Iran relationship as US sanctions loom - Reuters (2024-03-12)<br>
+https://www.reuters.com/markets/commodities/venezuela-rushes-mend-iran-relationship-us-sanctions-loom-2024-03-12/?ref=upstract.com<br>
 • North Korea's Lazarus Group Launders $900 Million in Cryptocurrency - The Hacker News (2023-10)</br>
 https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html</br>
 • Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers - U.S. Department of Justice (2023-09-18)</br>
 https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation</br>
+
 
 <!-- ################################################# -->
 <hr>
