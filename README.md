@@ -22,8 +22,6 @@
 <!-- ################################################# -->
 
 <h3>News</h3>
-• Feds Arrest Founders of Bitcoin Mixer Samourai Wallet<br>
-https://decrypt.co/227949/feds-arrest-founders-bitcoin-mixer-samourai-wallet<br>
 • The New Satoshi Emails: Early Developer Sirius Releases 120 Pages Detailing Work On Bitcoin - Bitcoin Magazine (2024-02-23)</br>
 https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi</br>
 • Read Adam Back's Complete Emails With Bitcoin Creator Satoshi Nakamoto - Bitcoin Magazine  (2024-02-23)</br>
@@ -38,6 +36,8 @@ https://edition.cnn.com/2023/02/01/tech/crypto-hacks-2022/index.html</br>
 https://edition.cnn.com/2022/08/16/tech/crypto-hack-rise-2022/index.html </br>
 
 <h4>Geopolitics</h4>
+• Feds Arrest Founders of Bitcoin Mixer Samourai Wallet<br>
+https://decrypt.co/227949/feds-arrest-founders-bitcoin-mixer-samourai-wallet<br>
 • Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses - US (2024-05-24)
 https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering<br>
 • Monero Founder Refutes Allegations of Helping Interpol Trace Funds - Beincrypto (2023-03-22)</br>
